@@ -1,8 +1,8 @@
-[Ignite Map/Reduce](src/main/configs/map-reduce-in-memory/README.md)
+[Ignite Map/Reduce](map-reduce-in-memory/README.md)
 
-[Ignite IGFS Hadoop](src/main/configs/igfs-hadoop-fs/README.md)
+[Ignite IGFS Hadoop](igfs-hadoop-fs/README.md)
 
-[Ignite IGFS Hadoop Cache](src/main/configs/igfs-hadoop-fs-cache/README.md)
+[Ignite IGFS Hadoop Cache](igfs-hadoop-fs-cache/README.md)
 
 
 
