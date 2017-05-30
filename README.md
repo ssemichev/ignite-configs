@@ -14,10 +14,10 @@
 
 ```
 cd /opt
-wget -P /opt "http://mirror.reverse.net/pub/apache//ignite/2.0.0/apache-ignite-fabric-2.0.0-bin.zip"
+wget -P /opt "http://mirror.nexcess.net/apache//ignite/2.0.0/apache-ignite-hadoop-2.0.0-bin.zip"
 unzip 
-ln -sfn /opt/apache-ignite-fabric-2.0.0-bin/ ignite
-rm apache-ignite-fabric-2.0.0-bin.zip
+ln -sfn /opt/apache-ignite-hadoop-2.0.0-bin/ ignite
+rm apache-ignite-hadoop-2.0.0-bin.zip
 ```
 
 ## Run locally
